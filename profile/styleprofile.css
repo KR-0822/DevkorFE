@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding:400');
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans:400');
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1:400,500,600,700,800');
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url('https://fonts.googleapis.com/css2?family=Jua');
+
+.body {
+    width: 2000px;
+    font-family: Noto Sans Mono;
+	font-weight: 600;
+	}
+.contain{
+    width: 500px;
+    height: 980px;
+    display: flex;
+    flex-direction: column;
+    background-color:  rgb(0, 255, 170);
+    
+}
+ 
+.head{
+    width: 100%;
+    height: auto;
+    background-color: #242d3e;
+    text-align: center;
+    color: #B59852;
+    
+}
+.box1{
+
+    
+    font-weight: 600;
+    font-size: large;
+}
+.box2{
+    color: white;
+    font-weight: 600;
+    font-size: x-large;
+}
+.box4{
+
+    font-family: 'Gothic A1';
+    word-spacing: 10;
+
+}
+
+.boxdown{
+    width: 100%;
+    display: flex;
+    height: 80%;
+    flex-direction:row;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.boxleft{
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+	font-weight: 700;
+    font-size: larger;
+    background-color: #EEEEF0;
+    width: 38%;
+    text-align: center;
+}
+
+.word1{
+
+    text-align: center;
+    font-weight: 500;
+    font-size:medium;
+}
+.word0{
+
+    font-family: Noto Sans Mono;
+
+    margin-left: 20;
+    margin-right: 20;
+    
+}
+
+.intro0{
+    line-height: 1.5;
+    font-family: 'Jua';
+    text-align: left;
+    font-weight: 500;
+    font-size: 15;
+    margin-left: 35;
+    margin-right: 35;
+
+}
+
+.intro1{
+    font-family: 'Jua';
+    text-align: left;
+    font-weight:lighter;
+    font-size:medium;
+    margin-left: 20;
+    margin-right: 10;
+
+}
+
+.photo{
+    height: 30%;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.boxright{
+    width: 62%;
+    background-color: white;
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+	font-weight: 700;
+    font-size: larger;
+}
